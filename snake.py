@@ -1,4 +1,3 @@
-# Snake Game by Mahesh Sawant
 
 import turtle
 import time
@@ -14,7 +13,7 @@ def run_snake():
 
     # set up the screen
     wn=turtle.Screen()
-    wn.title("Snake Game by Mahesh Sawant")
+    wn.title("Snake Game")
     wn.bgcolor("green")
     wn.setup(width=600, height=600)
 
